@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosesfawole
-- 👀 I’m interested in Frontend Web Developing
+- 👀 I’m a in Frontend Web Developer
 - 🌱 I’m currently learning React/MERN stack
-- 💞️ I’m looking to collaborate on Client side projectss
+- 💞️ I’m looking to collaborate on Client side projects
 - 📫 How to reach me twitter.com/pharwoleh 
 
 <!---
