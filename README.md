@@ -25,7 +25,7 @@ Currently open to **junior and mid-level  roles** and available for **client-sid
 | Project | Description | Stack |
 |--------|-------------|-------|
 
-| [**Baroque Works**](https://github.com/mosesfawole/baroque-works) | Cinematic One Piece fan site with interactive 3D character viewer | Next.js, React Three Fiber, Framer Motion | <br/>
+| [**Baroque Works**](https://github.com/mosesfawole/baroque) | Cinematic One Piece fan site with interactive 3D character viewer | Next.js, React Three Fiber, Framer Motion | <br/>
 | [**CryptoView**](https://github.com/mosesfawole/crypto-dashboard) | Real-time crypto dashboard with live WebSocket prices and interactive 3D globe | Next.js, Three.js, Zustand, Binance API | <br/>
 | [**PriceHunt**](https://github.com/mosesfawole/price-hunt) | Price comparison app that aggregates Google Shopping results with smart caching | Next.js, SerpAPI, Zustand | <br/>
 | [**HireBoard**](https://github.com/mosesfawole/hireboard) | Full-stack job board with company auth, admin dashboard and job approval flow | Next.js, Supabase, NextAuth, PostgreSQL | <br/>
