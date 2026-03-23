@@ -2,7 +2,7 @@
 
 # Hey, I'm Moses Fawole 👋
 
-**Frontend Developer** — building fast, beautiful and production-ready web experiences
+**Software Developer** — building fast, beautiful and production-ready web experiences
 
 [![Email](https://img.shields.io/badge/mosesfawoleh@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mosesfawoleh@gmail.com)
 [![GitHub](https://img.shields.io/badge/@mosesfawole-181717?style=flat&logo=github&logoColor=white)](https://github.com/mosesfawole)
@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a frontend-focused developer with a growing fullstack skillset. I build performant, visually polished web applications using modern tooling — from real-time dashboards and AI-powered tools to full-stack platforms with authentication and databases.
+I'm a software developer with a growing fullstack skillset. I build performant, visually polished web applications using modern tooling — from real-time dashboards and AI-powered tools to full-stack platforms with authentication and databases.
 
-Currently open to **junior and mid-level frontend roles** and available for **client-side freelance projects**.
+Currently open to **junior and mid-level  roles** and available for **client-side freelance projects**.
 
 ---
 
