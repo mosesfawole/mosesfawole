@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/mosesfawoleh@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mosesfawoleh@gmail.com)
 [![GitHub](https://img.shields.io/badge/@mosesfawole-181717?style=flat&logo=github&logoColor=white)](https://github.com/mosesfawole)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Junior%20Roles-00d4aa?style=flat)]
-[![Portfolio](https://img.shields.io/badge/@mosesfawole-181717?style=flat&logo=portfolio&logoColor=white)](https://mosesfawole.vercel.app)
+[![Portfolio](https://img.shields.io/badge/@portfolio-181717?style=flat&logo=portfolio&logoColor=white)](https://mosesfawole.vercel.app)
 
 
 </div>
