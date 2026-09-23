@@ -40,12 +40,15 @@
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosesfawole&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=dfe7ef&bg_color=0d1117" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesfawole&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=dfe7ef&bg_color=0d1117" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesfawole&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+</p>
+
 
 > Building meaningful digital experiences with code.
