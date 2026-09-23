@@ -1,93 +1,46 @@
-<div align="center">
-
-# Hey, I'm Moses Fawole 👋
-
-**Software Developer** — building fast, beautiful and production-ready web experiences
-
-[![Email](https://img.shields.io/badge/mosesfawoleh@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mosesfawoleh@gmail.com)
-[![GitHub](https://img.shields.io/badge/@mosesfawole-181717?style=flat&logo=github&logoColor=white)](https://github.com/mosesfawole)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Junior%20Roles-00d4aa?style=flat)]
-[![Portfolio](https://img.shields.io/badge/@portfolio-181717?style=flat&logo=portfolio&logoColor=white)](https://mosesfawole.vercel.app)
-
-
-</div>
-
----
-
-## About Me
-
-I'm a software developer with a growing fullstack skillset. I build performant, visually polished web applications using modern tooling — from real-time dashboards and AI-powered tools to full-stack platforms with authentication and databases.
-
-Currently open to **junior and mid-level  roles** and available for **client-side freelance projects**.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-
-| [**Baroque Works**](https://github.com/mosesfawole/baroque) | Cinematic One Piece fan site with interactive 3D character viewer | Next.js, React Three Fiber, Framer Motion | <br/>
-| [**CryptoView**](https://github.com/mosesfawole/crypto-dashboard) | Real-time crypto dashboard with live WebSocket prices and interactive 3D globe | Next.js, Three.js, Zustand, Binance API | <br/>
-| [**PriceHunt**](https://github.com/mosesfawole/price-hunt) | Price comparison app that aggregates Google Shopping results with smart caching | Next.js, SerpAPI, Zustand | <br/>
-| [**HireBoard**](https://github.com/mosesfawole/hireboard) | Full-stack job board with company auth, admin dashboard and job approval flow | Next.js, Supabase, NextAuth, PostgreSQL | <br/>
-| [**Mousa**](https://github.com/mosesfawole/mousa) | AI content dashboard for Twitter/X — generates ideas, writes tweets, analyzes performance | Next.js, Claude API, Supabase |
-
-
----
-
-## 🧰 Tech Stack
+<h1 align="center">Hi, I'm Moses Fawole 👋</h1>
 
 <p align="center">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" title="Three.js" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" />
-  &nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+Engineer;Open+to+Work" alt="Typing SVG" />
 </p>
 
----
-
-## 📊 GitHub Stats
+<p align="center">
+  Building thoughtful, scalable web products with a focus on clean UX and practical impact.
+</p>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesfawole&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesfawole&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosesfawole&theme=tokyonight&hide_border=true&background=0d1117)
-
+  <a href="https://github.com/mosesfawole">
+    <img src="https://img.shields.io/badge/GitHub-mosesfawole-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://mosesfawole.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:mosesfawoleh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </div>
 
 ---
 
-## 📫 Get in Touch
+### Highlights
 
-I'm currently open to junior frontend roles and freelance collaborations. If you have a project or opportunity, feel free to reach out.
+- [Homeland](https://github.com/mosesfawole/homeland) — Modern property platform
+- [HireBoard](https://github.com/mosesfawole/hireboard) — Full-stack job board
+- [Baroque Works](https://github.com/mosesfawole/baroque) — Cinematic interactive experience
 
-**Email:** [mosesfawoleh@gmail.com](mailto:mosesfawoleh@gmail.com)
+### Stack
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mosesfawole&color=c9a84c&style=flat&label=Profile+Views" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mosesfawole&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+> Building meaningful digital experiences with code.
