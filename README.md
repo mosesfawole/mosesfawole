@@ -1,54 +1,29 @@
-<h1 align="center">Hi, I'm Moses Fawole 👋</h1>
+# Moses Fawole
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+Engineer;Open+to+Work" alt="Typing SVG" />
-</p>
+### AI & Full-Stack Developer
 
-<p align="center">
-  Building thoughtful, scalable web products with a focus on clean UX and practical impact.
-</p>
+I build web products and AI workflows, with a focus on clear interfaces, independent validation, and practical automation. Based in Lagos, Nigeria. Open to roles and collaborations.
 
-<div align="center">
-  <a href="https://github.com/mosesfawole">
-    <img src="https://img.shields.io/badge/GitHub-mosesfawole-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://mosesfawole.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-View-0A66C2?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="mailto:mosesfawoleh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</div>
+[Portfolio](https://mosesfawole.vercel.app) · [Email](mailto:mosesfawoleh@gmail.com)
 
----
+## Selected work
 
-### Highlights
+| Project | What I built | Explore |
+| --- | --- | --- |
+| **ReleaseRoom** | A Codex builder and deterministic verification gatekeeper. Human approval is bound to the exact patch hash before a reviewable handoff is exported. | [Source](https://github.com/mosesfawole/releaseroom) · [Demo](https://youtu.be/CgD3kSIa8W0) |
+| **ClearCart** | AI-assisted shopping with server-checked budgets, buyer approval, and verified PayPal sandbox receipts. Fictional catalog and funds. | [Source](https://github.com/mosesfawole/clearcart) · [Demo](https://www.youtube.com/watch?v=slJc7aeOWz8) |
+| **NEAR Replay Lab** | A deterministic test harness and dashboard comparing payment failure scenarios against recorded NEAR testnet settlement evidence. | [Source & evidence](https://github.com/mosesfawole/near-replay-lab) |
+| **Teletext Venue Bulletin** | A local Wi-Fi event bulletin with authenticated staff updates and current room information for late arrivals. | [Source](https://github.com/mosesfawole/teletext-venue-bulletin) |
+| **Claude Pass Radar** | A scheduled public-source monitor with deduplicated Telegram alerts, source health, and free-budget controls. | [Source](https://github.com/mosesfawole/claude-referral-monitor) |
+| **Baroque Works** | An interactive One Piece fan experience with 3D characters and scroll storytelling. | [Source](https://github.com/mosesfawole/baroque) · [Website](https://baroque-theta.vercel.app/) |
 
-- [Homeland](https://github.com/mosesfawole/homeland) — Modern property platform
-- [HireBoard](https://github.com/mosesfawole/hireboard) — Full-stack job board
-- [Baroque Works](https://github.com/mosesfawole/baroque) — Cinematic interactive experience
+## What I work with
 
-### Stack
+- **Product interfaces:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Framer Motion
+- **AI applications:** model API integration, structured outputs, agent workflows, human approval gates; Claude API, Gemini API, and Codex
+- **Backend & automation:** Node.js, Python, Supabase, PostgreSQL, GitHub Actions, Telegram integrations
+- **Interactive web:** Three.js and React Three Fiber
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+I use AI-assisted development and document what is real, simulated, tested, and still a prototype. Project READMEs include setup instructions and scope limits.
 
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesfawole&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=dfe7ef&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesfawole&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-</p>
-
-
-> Building meaningful digital experiences with code.
+More web work: [Homeland](https://github.com/mosesfawole/homeland) · [HireBoard](https://github.com/mosesfawole/hireboard) · [KipClean](https://github.com/mosesfawole/kipclean-v1)
