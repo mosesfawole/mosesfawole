@@ -1,29 +1,78 @@
-# Moses Fawole
+<p align="center"><img src="./assets/banner.svg" alt="Hey, I’m Moses. AI & Full-Stack Developer. A little curiosity, a lot of building." width="100%" /></p>
 
-### AI & Full-Stack Developer
+<p align="center">
+  <a href="https://mosesfawole.vercel.app"><img src="./assets/portfolio.svg" alt="Explore my portfolio" /></a>
+  <a href="mailto:mosesfawoleh@gmail.com"><img src="./assets/email.svg" alt="Email Moses" /></a>
+</p>
 
-I build web products and AI workflows, with a focus on clear interfaces, independent validation, and practical automation. Based in Lagos, Nigeria. Open to roles and collaborations.
+<p align="center">🤖 Useful AI &nbsp; · &nbsp; 🧩 Thoughtful interfaces &nbsp; · &nbsp; ⚙️ Practical automation</p>
 
-[Portfolio](https://mosesfawole.vercel.app) · [Email](mailto:mosesfawoleh@gmail.com)
+I’m a developer in **Lagos, Nigeria**, with frontend roots and a growing collection of AI and full-stack projects. I like the part where a messy idea becomes something you can actually try.
 
-## Selected work
+- 🛠️ **Building:** AI application workflows, web products, and small automations that do a useful job.
+- 🔍 **My approach:** clear UX, independent checks, and results you can inspect.
+- 🤝 **Open to:** developer roles and collaborations.
 
-| Project | What I built | Explore |
-| --- | --- | --- |
-| **ReleaseRoom** | A Codex builder and deterministic verification gatekeeper. Human approval is bound to the exact patch hash before a reviewable handoff is exported. | [Source](https://github.com/mosesfawole/releaseroom) · [Demo](https://youtu.be/CgD3kSIa8W0) |
-| **ClearCart** | AI-assisted shopping with server-checked budgets, buyer approval, and verified PayPal sandbox receipts. Fictional catalog and funds. | [Source](https://github.com/mosesfawole/clearcart) · [Demo](https://www.youtube.com/watch?v=slJc7aeOWz8) |
-| **NEAR Replay Lab** | A deterministic test harness and dashboard comparing payment failure scenarios against recorded NEAR testnet settlement evidence. | [Source & evidence](https://github.com/mosesfawole/near-replay-lab) |
-| **Teletext Venue Bulletin** | A local Wi-Fi event bulletin with authenticated staff updates and current room information for late arrivals. | [Source](https://github.com/mosesfawole/teletext-venue-bulletin) |
-| **Claude Pass Radar** | A scheduled public-source monitor with deduplicated Telegram alerts, source health, and free-budget controls. | [Source](https://github.com/mosesfawole/claude-referral-monitor) |
-| **Baroque Works** | An interactive One Piece fan experience with 3D characters and scroll storytelling. | [Source](https://github.com/mosesfawole/baroque) · [Website](https://baroque-theta.vercel.app/) |
+### 🧰 The toolbox
 
-## What I work with
+<p>
+  <img src="./assets/toolbox.svg" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase, Tailwind CSS, Three.js, Git, GitHub Actions" />
+</p>
 
-- **Product interfaces:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Framer Motion
-- **AI applications:** model API integration, structured outputs, agent workflows, human approval gates; Claude API, Gemini API, and Codex
-- **Backend & automation:** Node.js, Python, Supabase, PostgreSQL, GitHub Actions, Telegram integrations
-- **Interactive web:** Three.js and React Three Fiber
+**AI work:** model APIs · structured outputs · agent workflows · human approval gates<br />
+**Tools I use:** Codex · Claude API · Gemini API
 
-I use AI-assisted development and document what is real, simulated, tested, and still a prototype. Project READMEs include setup instructions and scope limits.
+### 🧪 A few things from my workbench
 
-More web work: [Homeland](https://github.com/mosesfawole/homeland) · [HireBoard](https://github.com/mosesfawole/hireboard) · [KipClean](https://github.com/mosesfawole/kipclean-v1)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛠️ ReleaseRoom</h3>
+<p>An AI prepares a patch. Independent checks verify it. A human approves the exact hash before handoff.</p>
+<p><a href="https://github.com/mosesfawole/releaseroom">Code & notes</a> · <a href="https://youtu.be/CgD3kSIa8W0">Watch demo</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🛍️ ClearCart</h3>
+<p>AI-assisted shopping with checked budgets, buyer approval, and verified PayPal sandbox receipts.</p>
+<p><a href="https://github.com/mosesfawole/clearcart">Code & notes</a> · <a href="https://www.youtube.com/watch?v=slJc7aeOWz8">Watch demo</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔬 NEAR Replay Lab</h3>
+<p>Replay payment failure scenarios and inspect what finalized testnet evidence actually proves.</p>
+<p><a href="https://github.com/mosesfawole/near-replay-lab">Code & evidence</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>📡 Teletext Venue Bulletin</h3>
+<p>A local Wi-Fi event bulletin. Staff change the room; late arrivals get the current revision.</p>
+<p><a href="https://github.com/mosesfawole/teletext-venue-bulletin">Explore the prototype</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛰️ Claude Pass Radar</h3>
+<p>Scheduled public-source scans, deduplicated Telegram alerts, and controls for a free search budget.</p>
+<p><a href="https://github.com/mosesfawole/claude-referral-monitor">See the automation</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🏴‍☠️ Baroque Works</h3>
+<p>A One Piece fan experience with 3D characters and scroll storytelling. My playful side of the web.</p>
+<p><a href="https://github.com/mosesfawole/baroque">Source</a> · <a href="https://baroque-theta.vercel.app/">Explore website</a></p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧠 A note on how I build</b></summary>
+<br />
+I use AI-assisted development. Project READMEs distinguish what is real, simulated, tested, and still a prototype. ClearCart uses fictional products and sandbox funds; NEAR Replay Lab uses constructed testnet fixtures. The pass monitor does not use a language model, and finding a link does not guarantee redemption.
+</details>
+
+### 🌱 More from the shelf
+
+[🏡 Homeland](https://github.com/mosesfawole/homeland) · [💼 HireBoard](https://github.com/mosesfawole/hireboard) · [✨ KipClean](https://github.com/mosesfawole/kipclean-v1)
+
+---
+
+<p align="center"><b>Got a good problem? Let’s build something useful.</b><br /><a href="mailto:mosesfawoleh@gmail.com">mosesfawoleh@gmail.com</a></p>
